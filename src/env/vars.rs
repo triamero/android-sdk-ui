@@ -1,0 +1,3 @@
+struct Variables {
+    home: String;
+}
